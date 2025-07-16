@@ -7,13 +7,13 @@ This project showcases a dynamic and interactive **Coffee Shop Sales Dashboard**
 ## 📷 Dashboard Previews
 
 ### 🔶 Main Dashboard – Monthly Analysis (May 2023)
-![Coffee Sales Dashboard](./Screenshots/main_dashboard.png)
+![Coffee Sales Dashboard](https://raw.githubusercontent.com/Sakshi-padole/Cofee-shop-analysis/refs/heads/main/Screenshot%202025-07-16%20160617.jpg)
 
 ### 🔵 Circular KPI – Hour-wise Sales View
-![Hour View](./Screenshots/hourly_view.png)
+![Hour View](https://raw.githubusercontent.com/Sakshi-padole/Cofee-shop-analysis/refs/heads/main/Screenshot%202025-07-16%20160744.jpg)
 
 ### 🔵 Circular KPI – Date-wise Sales View
-![Date View](./Screenshots/date_view.png)
+![Date View](https://raw.githubusercontent.com/Sakshi-padole/Cofee-shop-analysis/refs/heads/main/Screenshot%202025-07-16%20160706.jpg)
 
 ---
 ## 📊 Project Summary
